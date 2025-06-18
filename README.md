@@ -12,5 +12,7 @@ pip install japanize-matplotlib
 ```
 を追加
 
+データフレーム列の名称等は各自で変更してください。
+
 パスの取り方等は以下を参照してください
 https://qiita.com/kado_u/items/45b76f9a6f920bf0f786
